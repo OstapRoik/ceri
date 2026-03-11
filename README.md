@@ -37,4 +37,4 @@
 ## 📂 Структура проєкту
 
 * `backend_core.py` - Django-додаток.
-* `FrontendApp.jsx` - React-додаток/
+* `FrontendApp.jsx` - React-додаток.
